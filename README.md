@@ -2,6 +2,6 @@ In a world where AI gets smarter and smarter, we need a digital armor before the
 
 **When the robots rise up, you'll know that I am still there.** ⛔🤖
 
-PGP Public Key: [`0x16DC324E88ECFA84`](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x16dc324e88ecfa84)
+PGP Public Key: [`0x251AA366CC9EADAC`](https://keys.openpgp.org/search?q=yongqiangdou00%40gmail.com)
 
 Let's test it! The first message is at [here](https://github.com/DeeDive/DeeDive/blob/main/first_msg.asc).
